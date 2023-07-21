@@ -1,12 +1,11 @@
-<p align="center">
-  <a href="https://v2.nonebot.dev/"><img src="https://v2.nonebot.dev/logo.png" width="200" height="200" alt="nonebot"></a>
-</p>
-
-<div align="center">
-
 # NoneBot Plugin Alconna
 
 _✨ Alconna Usage For NoneBot2 ✨_
+
+# 注意
+**本仓库已迁移至 [nonebot/plugin-alconna](https://github.com/nonebot/plugin-alconna)**
+
+---
 
 </div>
 
